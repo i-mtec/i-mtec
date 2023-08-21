@@ -31,7 +31,7 @@ export const footerStyle = {
     display: "block",
     marginBottom: "15px",
     // padding: "0 20px",
-    width: "45%",
+    width: "41%",
   },
   desc: {
     fontSize: "16px",
